@@ -1,5 +1,5 @@
 # An inspirational quotes app using Flask
-This is a beginner's Flask project.    
+This is a basic Flask project for beginners.    
 For a step-by-step tutorial, see https://thecodebits.com/flask-project-for-beginners-inspirational-quotes/
 
 # How to run the application
