@@ -16,5 +16,6 @@ For a step-by-step tutorial, see https://thecodebits.com/flask-project-for-begin
   ```export FLASK_APP=quotes```
 - Run the application   
   ```flask run```
+- Go to http://127.0.0.1:5000/ to see the app in action!
   
      
